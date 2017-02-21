@@ -2,5 +2,6 @@
 <settings>
     <category label="30000">
         <setting id="emulationstation_path" type="executable" label="Path to EmulationStation executable" default="/usr/bin/emulationstation" />
+    	<setting label="No Exit Menu" type="bool" id="emulationstation_noexit" default="false"/>
     </category>
 </settings>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.program.emulationstation.launcher" name="Games" version="0.0.2" provider-name="Stephen Thirlwall">
+<addon id="plugin.program.emulationstation.launcher" name="EmulationStation Launcher" version="1.0.0" provider-name="ouija">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -8,9 +8,9 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <summary lang="en">Launch EmulationStation</summary>
+        <summary lang="en">EmulationStation Launcher for KODI</summary>
         <language></language>
-        <description lang="en">Launch EmulationStation</description>
+        <description lang="en">EmulationStation Launcher for KODI</description>
         <license></license>
         <source></source>
         <forum></forum>

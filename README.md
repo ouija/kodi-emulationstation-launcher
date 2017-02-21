@@ -1,4 +1,15 @@
-This is a trivial plugin that launches EmulationStation by exec'ing it.
+EmulationStation Launcher for Kodi by ouija 
+originally forked from Stephen Thirlwall (https://github.com/sdt/kodi-emulationstation-launcher)
+--------------------------------------------------------------------------------------------------------------------
 
-I run Kodi as a systemd service so when EmulationStation exits, systemd starts
-up a new instance of Kodi.
+CHANGELOG:
+
+Version 1.0.0
+	- Added addition 'No Exit Menu' option to plugin which will disabled the option to exit from EmulationStation.
+
+
+
+
+Thanks to Stephen Thirlwall for his original idea.  
+
+"Good artists copy; great artists steal"
