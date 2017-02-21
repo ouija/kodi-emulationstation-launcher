@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.program.emulationstation.launcher" name="EmulationStation Launcher" version="1.0.0" provider-name="ouija">
+<addon id="plugin.program.emulationstation.launcher" name="EmulationStation Launcher" version="1.0.1" provider-name="ouija">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -9,10 +9,10 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">EmulationStation Launcher for KODI</summary>
-        <language></language>
+        <language>en</language>
         <description lang="en">EmulationStation Launcher for KODI</description>
-        <license></license>
-        <source></source>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/ouija/kodi-emulationstation-launcher</source>
         <forum></forum>
         <email></email>
         <website></website>
