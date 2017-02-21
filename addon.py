@@ -1,6 +1,7 @@
 import os
 import subprocess
 import xbmcaddon
+import xbmc
 
 __addon__ = xbmcaddon.Addon()
 program = __addon__.getSetting('emulationstation_path')
@@ -12,4 +13,6 @@ if quitkodi == 'true':
 	elif noexit == 'false':
 	    os.execlp(program, program)
 elif quitkodi == 'false':	    
-		subprocess.call(program, shell=True)
+		subprocess.Popen(program, shell=True)
+
+xbmc.executebuiltin( "XBMC.ActivateWindow(0)" )
