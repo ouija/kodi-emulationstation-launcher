@@ -1,3 +1,5 @@
+![icon](fanart.jpg)
+
 EmulationStation Launcher for Kodi
 ==================================
 
