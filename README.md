@@ -20,7 +20,7 @@ NOTES:
 - Only tested with KODI v17 (Krypton) and Ubuntu Linux 16.04.
 - Don't blame me if this shit don't work for you, but it did the trick for me.
 
-
+Please consider [donating](https://paypal.me/djouija) to support this project. Thanks!
 
 Thanks to Stephen Thirlwall for his original idea and code.  
 
